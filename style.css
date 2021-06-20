@@ -1,0 +1,52 @@
+#campuslife iframe {
+    width: 100%;
+}
+
+.campuslife_1 h3 {
+    display: inline;
+}
+
+.campuslife_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: blue;
+}
+
+.acheivements_maindiv {
+    border: 1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    font-size: 25px;
+}
+
+.acheivements_maindiv img {
+    width: 100%;
+}
+.main_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.main_head i{
+    float: right;
+    font-size: 30px;
+}
+.new_text span{
+    color: yellow; 
+}
+.acheivements_maindiv h5, .acheivements_maindiv p{
+    margin-left: 20px;
+}
+.acheivements_main hr{
+    width: 250px;
+}
+#new img{
+    font-size: 80px;
+}
+#attendance img{
+    padding-right:150px;
+}
