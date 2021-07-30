@@ -1,5 +1,5 @@
-body{
-
+body
+{
     text-align: center;
 }
 #welcome {
@@ -49,7 +49,7 @@ h1 {
 
 .my_nav_bar
 {
-    position:sticky;
+    position: sticky;
     top:0;
     z-index:99999
 }
@@ -58,44 +58,18 @@ input
 {
     background: grey;
 }
-
-.row::after {
-    content: ""; 
-    clear: both; 
-    display: table;
+.alumni hr{
+    margin-bottom: 10px;
 }
-.travel_mainDiv { 
-    float: left;
-    width: 33.33%;
-    padding: 5px; border: 1px solid #c7c7c7;
+.alumni{
+    cursor: pointer;
+    width: 800px;
 }
-.travel_mainDiv img {
-    width: 100%;
-    height:300px; 
+#alumni1{
+    width: 100px;
+    height: 70px;
 }
-.travel_mainDiv hr {
-    width: 100%;
-}
-.travel_mainDiv h5 , .travel_mainDiv p {
-    margin-left: 20px;
-}
-#achievements_id{ 
-    padding-bottom: 10px;
-}
-.movie_head {
-    font-size: 20px;
-    padding: 6px 22px;
-    border-radius: 10px;
-    margin-bottom: 15px;
-    width: 100%;
-    display: inline-block; 
-}
-.movie_head i {
-    float: right;
-}
-.movie_text span {
-    color: #ff7700; 
-}
-#new img{
-    width: 600px;
+#alumni2{
+    width: 100px;
+    height: 70px;
 }
